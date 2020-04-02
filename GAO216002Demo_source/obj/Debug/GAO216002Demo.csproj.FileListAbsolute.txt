@@ -1,0 +1,48 @@
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\bin\Debug\GAO216002Demo.exe.config
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\bin\Debug\GAO216002Demo.exe
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\bin\Debug\GAO216002Demo.pdb
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\UHFAPP.ChoiceNumberForm.resources
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\UHFAPP.ConfigForm.resources
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\WinForm_Test.frmWaitingBox.resources
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\UHFAPP.Kill_LockForm.resources
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\UHFAPP.MainForm.resources
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\UHFAPP.Properties.Resources.resources
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\UHFAPP.ReadWriteTagForm.resources
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\UHFAPP.ReadEPCForm.resources
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\UHFAPP.ReceiveEPC.resources
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\UHFAPP.TestForm.resources
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\UHFAPP.TipForm.resources
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\UHFAPP.WaitForm.resources
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\GAO216002Demo.csproj.GenerateResource.cache
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\GAO216002Demo.csproj.CopyComplete
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\GAO216002Demo.exe
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\GAO216002Demo.pdb
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\bin\Debug\UHFAPI.dll
+C:\zData\rfid\reader\216002\UHFAPP_v1.2.6 for Windows\UHFAPP_v1.2.6_source\obj\Debug\GAO216002Demo.csprojAssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\bin\Debug\UHFAPI.dll
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\bin\Debug\GAO216002Demo.exe.config
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\bin\Debug\GAO216002Demo.exe
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\bin\Debug\GAO216002Demo.pdb
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\GAO216002Demo.csprojAssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\UHFAPP.ChoiceNumberForm.resources
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\UHFAPP.ConfigForm.resources
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\WinForm_Test.frmWaitingBox.resources
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\UHFAPP.Kill_LockForm.resources
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\UHFAPP.MainForm.resources
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\UHFAPP.Properties.Resources.resources
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\UHFAPP.ReadWriteTagForm.resources
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\UHFAPP.ReadEPCForm.resources
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\UHFAPP.ReceiveEPC.resources
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\UHFAPP.TestForm.resources
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\UHFAPP.TipForm.resources
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\UHFAPP.WaitForm.resources
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\GAO216002Demo.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\GAO216002Demo.csproj.CopyComplete
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\GAO216002Demo.exe
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\GAO216002Demo.pdb
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\bin\Debug\GAO216002Demo.exe.manifest
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\bin\Debug\GAO216002Demo.application
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\GAO216002Demo.exe.manifest
+C:\Users\steve\OneDrive\Desktop\RFID SOFTWARE\GAO216002Demo_source\obj\Debug\GAO216002Demo.application
